@@ -47,6 +47,9 @@ user_data_df = pd.DataFrame(logins)
 # Salve o DataFrame em um arquivo CSV
 user_data_df.to_csv('dados_usuarios_github.csv', index=False)
 ```
-## Screenshots
 
-![Example Read Csv](![leitura_csv](https://github.com/jeffersonreislima/desafio_etl_python/assets/142839931/f07a1266-0267-4d44-a1fd-3dec4e009789))
+## 💡 Screenshots 
+
+<div align="center">
+ <img src="https://github.com/jeffersonreislima/desafio_etl_python/assets/142839931/f07a1266-0267-4d44-a1fd-3dec4e009789" />
+</div>
