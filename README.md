@@ -51,5 +51,16 @@ user_data_df.to_csv('dados_usuarios_github.csv', index=False)
 ## 💡 Screenshots 
 
 <div align="center">
+ <h3>Leitura dos dados CSV</h3>
  <img src="https://github.com/jeffersonreislima/desafio_etl_python/assets/142839931/f07a1266-0267-4d44-a1fd-3dec4e009789" />
+</div>
+
+<div align="center">
+ <h3>Novo arquivo CSV criado</h3>
+ <img src="https://github.com/jeffersonreislima/desafio_etl_python/assets/142839931/05a7da99-e51e-462f-9dc0-4218f19a75cd" />
+</div>
+
+<div align="center">
+ <h3>Dados do Novo arquivo CSV criado</h3>
+ <img src="https://github.com/jeffersonreislima/desafio_etl_python/assets/142839931/3fe44962-9f37-4c08-a7fe-883af7f7b1c9" />
 </div>
