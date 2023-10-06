@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou a Jefferson Reis! 
 Este desafio consiste em extrair os dados de um arquivo .csv, através da Api Rest (GET) do GitHub e utilização do Pandas (Python).
 
-Realizar o processo de captura destes dados e na sequência arquivá-los em outro arquivo .csv com TODOS os dados retornados da API REST (GET) do GitHub
+Realizar o processo de captura destes dados e na sequência arquivá-los em outro arquivo .csv com TODOS os dados retornados da API REST (GET) do GitHub, utilizando API REST (PUT)
 
 ## 💡 Tecnologias e extensões Utilizadas 
 
